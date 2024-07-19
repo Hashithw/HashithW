@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hashith Wickramasinghe
 
-<!--
-**Hashithw/HashithW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm Hashith Wickramasinghe, a passionate data analysis enthusiast currently pursuing my undergraduate studies at the University of Colombo, Faculty of Science.
 
-Here are some ideas to get you started:
+## Skills
+- **Python**
+- **R**
+- **SQL**
+- **Excel**
+- **Power BI**
+- **Java**
+- **Octave**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me
+- **LinkedIn**: [HashithW](https://www.linkedin.com/in/HashithW)
