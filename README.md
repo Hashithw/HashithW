@@ -33,9 +33,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" height="40" alt="spss logo"  />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000" height="40" alt="Excel logo"  />
-  <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" height="40" alt="Power BI logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gnu-octave-logo.svg/425px-Gnu-octave-logo.svg.png" height="40" alt="Octave logo"  />
+
 </div>
